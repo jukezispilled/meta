@@ -43,7 +43,7 @@ function Chat() {
         
         switch (true) {
           case lowercaseInput === "ca":
-            response = "CA is updating...";
+            response = "CA is F5v6k8RdwLfGnhZywSTXfdAmNLJzEm6zr54Ux8o4pump";
             break;
           case ["twitter", "twit", "x"].includes(lowercaseInput):
             response = "Check out our Twitter/X account @AGISOLANA for the latest updates and news!";
