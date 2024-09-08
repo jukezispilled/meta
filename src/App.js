@@ -56,7 +56,7 @@ function Chat() {
             response = "CA is updating...";
             break;
           case ["twitter", "twit", "x"].includes(lowercaseInput):
-            response = "Check out our Twitter/X account @ for the latest updates and news!";
+            response = "Check out our Twitter/X account @METAonsolana_ for the latest updates and news!";
             break;
           case ["telegram", "tele", "tg"].includes(lowercaseInput):
             response = "Join our Telegram community https://t.me/METAportalsolana for real-time discussions and support!";
@@ -143,7 +143,7 @@ function App() {
       <GlobalStyle />
       <div className="h-screen w-screen flex justify-center items-center relative">
         <div className='absolute bottom-3 right-3 flex space-x-1 items-center z-[50]'>
-          <a href="https://x.com/" className='transition ease-in-out duration-150'>
+          <a href="https://x.com/metaonsolana_" className='transition ease-in-out duration-150'>
             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='w-10 h-10 md:w-12 md:h-12 md:hover:scale-105 transition ease-in-out duration-150 cursor-pointer' fill="#cbd5e1" viewBox="0 0 50 50">
               <path d="M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z"></path>
             </svg>
